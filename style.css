@@ -3,7 +3,7 @@ body{
     padding: 0;
 
     header {
-        height: 4rem;
+        height: 64px;
         align-content: center;
 
         h1 {
@@ -93,7 +93,7 @@ body{
 
 }
 #imagem8:checked ~ .img1{
-     margin-left: -116.666666666666%;
+    margin-left: -116.666666666666%;
 }
 
 footer {
@@ -101,7 +101,7 @@ footer {
     bottom: 0;
     width: 100vw;
     align-content: center;
-    height: 2rem;
+    height: 32px;
 
     p {
         margin: 0;
